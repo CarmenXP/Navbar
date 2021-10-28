@@ -1,0 +1,16 @@
+.navBar{
+    display: flex;
+    width: 100%;
+    top: 0;
+    position:sticky
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-right: 1rem;
+}
+.nav-link{
+    text-decoration: none;
+}
